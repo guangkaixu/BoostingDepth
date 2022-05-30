@@ -25,10 +25,10 @@ pip install -r requirements.txt
         <td>Pred depth lwlr</td>
     </tr>
     <tr>
-        <td><img src="examples/rgb.jpg" height=200></td>  
-        <td><img src="examples/gt_depth.png" height=200></td>
-        <td><img src="examples/pred_depth_global.png"  height=200></td>
-        <td><img src="examples/pred_depth_lwlr.png"  height=200></td>
+        <td><img src="examples/rgb.jpg" height=150></td>  
+        <td><img src="examples/gt_depth.png" height=150></td>
+        <td><img src="examples/pred_depth_global.png"  height=150></td>
+        <td><img src="examples/pred_depth_lwlr.png"  height=150></td>
     </tr>
     </table>
 
