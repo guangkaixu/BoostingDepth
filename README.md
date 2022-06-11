@@ -53,5 +53,5 @@ pip install -r requirements.txt
     python inference_lwlr.py
     ```
 
-## Training & Inference (coming soon...)
+## Training & Inference (to be uploaded...)
 
